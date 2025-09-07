@@ -23,10 +23,10 @@ public:
             }
         }
 
-        // Se ja tiver resolvido, retorna 1
+        // Se ja tiver resolvido, retorna 0
         if (current_board_str == target)
         {
-            return 1;
+            return 0;
         }
 
         // Cria a fila e mapeia os vizinhos
