@@ -17,8 +17,8 @@ Repositório com resoluções de problemas de grafos 1 do [LeetCode](https://lee
 
 Serão realizados 3 exercícios, sendo 2 de nível Difícil e um de nível médio.
 
-|Nome | Dificuldade |
-| -- | -- |
+|Nome | Dificuldade | Link Resolução |
+| -- | -- | -- |
 |[773. Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/description) | Difícil |
-|[847. Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/description) | Difícil |
+|[847. Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/description) | Difícil | [Resolução](/Resolucoes/questao847.c++) |
 |[785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/) | Médio | 
