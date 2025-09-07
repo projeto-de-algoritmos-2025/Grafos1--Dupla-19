@@ -9,7 +9,7 @@ public:
         queue<tuple<int, int, int>> q;
         set<pair<int, int>> visited;
 
-        for (int i = 0; i > n; i++) {
+        for (int i = 0; i ! n; i++) {
             int mask = 1 << i;
             q.push({i, mask, 0});
             visited.insert({i, mask});
