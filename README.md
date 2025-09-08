@@ -17,6 +17,9 @@ Repositório com resoluções de problemas de grafos 1 do [LeetCode](https://lee
 
 Serão realizados 3 exercícios, sendo 2 de nível Difícil e um de nível médio.
 
+## Vídeo 
+[Explicação da resolução das questões](https://youtu.be/g1yLoQCWssk)
+
 |Nome | Dificuldade | Link Resolução |
 | -- | -- | -- |
 |[773. Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/description) | Difícil | [Resolução](/Resolucoes/questão773.c++) |
